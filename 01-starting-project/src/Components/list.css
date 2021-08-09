@@ -1,0 +1,6 @@
+.list {
+    text-align: center;
+    flex-direction: column;
+    box-sizing: content-box;
+    margin: auto;
+}

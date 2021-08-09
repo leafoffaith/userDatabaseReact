@@ -1,0 +1,17 @@
+.item {
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 95%;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    margin: 0.2rem;
+    background-color: whitesmoke;
+    color: palevioletred;
+    font-weight: bold;
+
+}

@@ -1,0 +1,17 @@
+.card {
+    width: 40%;
+    max-width: 85%;
+    margin: 5rem auto;
+    box-sizing: border-box;
+    display: flex;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+    background-color: palevioletred;
+    border-radius: 12px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
